@@ -1,0 +1,5 @@
+{
+  "name": "PayPal Payment Hub",
+  "description": "A secure payment system integrated with PayPal for processing orders and donations.",
+  "requestFramePermissions": []
+}
